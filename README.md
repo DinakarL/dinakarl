@@ -23,6 +23,13 @@
 ![image](https://github.com/user-attachments/assets/cfaf529a-4c77-4ad7-a40d-49e1551ef2f2)
 ![image](https://github.com/user-attachments/assets/8aab62a1-8e56-40bd-9de8-d7e3e8d0303e)
 
+### Operating System
+![image](https://github.com/user-attachments/assets/a4e382bb-f3b9-4f62-8ab6-1963882e4215)
+![image](https://github.com/user-attachments/assets/4f27927e-252e-4ec0-80ff-265ccaef1f07)
+
+### Database
+![image](https://github.com/user-attachments/assets/8ada2e44-45d0-48e6-9317-fc490199ee89)
+
 
 
 <!--
