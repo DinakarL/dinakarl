@@ -6,7 +6,7 @@
 - 🚀 Interested in CI/CD, DevOps, and Cloud Computing.
 - 🤖 Exploring AI and Sentiment Analysis projects.
 - 🌱 Seeking internship opportunities in Java Backend Development.
-- 🛠️ Check out my [projects](https://github.com/your-username?tab=repositories).
+- 🛠️ Check out my [projects](https://github.com/DinakarL?tab=repositories).
 - 📧 Reach me at: dinakarl166@gmail.com
 - Social presence
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dinakar.exe/?igsh=eWUyZThoc3R3bzlw#)
