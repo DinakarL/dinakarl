@@ -8,6 +8,17 @@
 - 🌱 Seeking internship opportunities in Java Backend Development.
 - 🛠️ Check out my [projects](https://github.com/your-username?tab=repositories).
 - 📧 Reach me at: dinakarl166@gmail.com
+
+### 🌟 Skills
+- Java | Spring Boot | REST APIs | MySQL
+- Docker | Jenkins | AWS (Learning)
+- Problem Solving | Data Structures and Algorithms
+
+---
+
+### I Code in
+
+
 <!--
 **DinakarL/dinakarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
