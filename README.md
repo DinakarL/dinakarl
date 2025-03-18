@@ -35,6 +35,12 @@
 ### Database
 ![image](https://github.com/user-attachments/assets/8ada2e44-45d0-48e6-9317-fc490199ee89)
 
+### CI/CD Tools
+![image](https://github.com/user-attachments/assets/8c2edf66-6d41-41b9-9b5e-5c296738c491)
+![image](https://github.com/user-attachments/assets/e1b08734-90af-4c0a-a87b-7dfbd684cc39)
+![image](https://github.com/user-attachments/assets/6dd8b5dd-e952-4fcd-ae5d-6415c02b1225)
+
+
 
 
 <!--
