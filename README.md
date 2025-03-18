@@ -26,6 +26,9 @@
 ### Operating System
 ![image](https://github.com/user-attachments/assets/a4e382bb-f3b9-4f62-8ab6-1963882e4215)
 ![image](https://github.com/user-attachments/assets/4f27927e-252e-4ec0-80ff-265ccaef1f07)
+![image](https://github.com/user-attachments/assets/eee2ccf5-83ba-4fa2-a051-65e2c2f3fcf7)
+![image](https://github.com/user-attachments/assets/40b2e285-3d1a-4858-b870-3862fd8c8f31)
+![image](https://github.com/user-attachments/assets/8805905a-66ff-4fa4-9a5d-cdb415778090)
 
 ### Database
 ![image](https://github.com/user-attachments/assets/8ada2e44-45d0-48e6-9317-fc490199ee89)
