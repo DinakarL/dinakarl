@@ -22,6 +22,8 @@
 ![image](https://github.com/user-attachments/assets/6a68ace3-d5d1-49a4-9a3d-50dfd8229d58)
 ![image](https://github.com/user-attachments/assets/cfaf529a-4c77-4ad7-a40d-49e1551ef2f2)
 ![image](https://github.com/user-attachments/assets/8aab62a1-8e56-40bd-9de8-d7e3e8d0303e)
+![image](https://github.com/user-attachments/assets/3aa25427-5947-4658-b0b9-32ab8093263a)
+![image](https://github.com/user-attachments/assets/3e1990fe-758d-42ca-b88e-e2bc9b23a244)
 
 ### Operating System
 ![image](https://github.com/user-attachments/assets/a4e382bb-f3b9-4f62-8ab6-1963882e4215)
