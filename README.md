@@ -9,6 +9,7 @@
 - 🛠️ Check out my [projects](https://github.com/your-username?tab=repositories).
 - 📧 Reach me at: dinakarl166@gmail.com
 
+
 ### 🌟 Skills
 - Java | Spring Boot | REST APIs | MySQL
 - Docker | Jenkins | AWS (Learning)
@@ -46,6 +47,9 @@
 ![image](https://github.com/user-attachments/assets/b53df492-b152-4889-914c-906c255d1464)
 ![image](https://github.com/user-attachments/assets/6b65a006-1869-4881-9b1a-9116b6c7662c)
 
+### Cloud
+![image](https://github.com/user-attachments/assets/662053d1-67ae-4330-b618-f389d71c68ff)
+![image](https://github.com/user-attachments/assets/aab941cd-f6f1-41fe-b065-2b6b2cb9b4de)
 
 
 
