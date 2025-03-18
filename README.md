@@ -8,6 +8,11 @@
 - 🌱 Seeking internship opportunities in Java Backend Development.
 - 🛠️ Check out my [projects](https://github.com/your-username?tab=repositories).
 - 📧 Reach me at: dinakarl166@gmail.com
+- Social presence
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dinakar.exe/?igsh=eWUyZThoc3R3bzlw#)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_username/)
+- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_username/)
+
 
 
 ### 🌟 Skills
@@ -37,6 +42,7 @@
 ![image](https://github.com/user-attachments/assets/8ada2e44-45d0-48e6-9317-fc490199ee89)
 
 ### CI/CD Tools
+![image](https://github.com/user-attachments/assets/6b65a006-1869-4881-9b1a-9116b6c7662c)
 ![image](https://github.com/user-attachments/assets/8c2edf66-6d41-41b9-9b5e-5c296738c491)
 ![image](https://github.com/user-attachments/assets/e1b08734-90af-4c0a-a87b-7dfbd684cc39)
 ![image](https://github.com/user-attachments/assets/6dd8b5dd-e952-4fcd-ae5d-6415c02b1225)
