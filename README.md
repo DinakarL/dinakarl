@@ -17,6 +17,10 @@
 ---
 
 ### I Code in
+![image](https://github.com/user-attachments/assets/e9afb290-2969-4726-b51a-23acd63b50ef)
+![image](https://github.com/user-attachments/assets/258b0436-1ab3-4838-9564-7a830332c15f)
+![image](https://github.com/user-attachments/assets/6a68ace3-d5d1-49a4-9a3d-50dfd8229d58)
+
 
 
 <!--
