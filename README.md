@@ -51,7 +51,7 @@
 ![image](https://github.com/user-attachments/assets/1634b77b-5a0c-4a3a-bb6c-c49dd130b8bb)
 ![image](https://github.com/user-attachments/assets/9b70c294-1d38-417c-b1c2-b1bc2192b32e)
 ![image](https://github.com/user-attachments/assets/b53df492-b152-4889-914c-906c255d1464)
-![image](https://github.com/user-attachments/assets/6b65a006-1869-4881-9b1a-9116b6c7662c)
+
 
 ### Cloud
 ![image](https://github.com/user-attachments/assets/662053d1-67ae-4330-b618-f389d71c68ff)
